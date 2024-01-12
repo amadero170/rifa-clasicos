@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between ">
       <Image
         className="w-full max-w-2xl"
-        src="/rifa-1.png"
+        src="11.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -13,7 +13,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="/2.png"
+        src="12.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -21,7 +21,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="/3.png"
+        src="13.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -29,7 +29,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="/4.png"
+        src="14.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -37,7 +37,39 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="/5.png"
+        src="15.jpeg"
+        alt="rifa"
+        width={180}
+        height={37}
+        priority
+      />
+      <Image
+        className="w-full max-w-2xl"
+        src="16.jpeg"
+        alt="rifa"
+        width={180}
+        height={37}
+        priority
+      />
+      <Image
+        className="w-full max-w-2xl"
+        src="17.jpeg"
+        alt="rifa"
+        width={180}
+        height={37}
+        priority
+      />
+      <Image
+        className="w-full max-w-2xl"
+        src="18.jpeg"
+        alt="rifa"
+        width={180}
+        height={37}
+        priority
+      />
+      <Image
+        className="w-full max-w-2xl"
+        src="19.jpeg"
         alt="rifa"
         width={180}
         height={37}
