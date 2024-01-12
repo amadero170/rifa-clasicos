@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between ">
       <Image
         className="w-full max-w-2xl"
-        src="11.jpeg"
+        src="Diapositiva1.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -13,7 +13,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="12.jpeg"
+        src="Diapositiva2.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -21,7 +21,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="13.jpeg"
+        src="Diapositiva3.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -29,7 +29,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="14.jpeg"
+        src="Diapositiva4.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -37,7 +37,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="15.jpeg"
+        src="Diapositiva5.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -45,7 +45,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="16.jpeg"
+        src="Diapositiva6.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -53,7 +53,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="17.jpeg"
+        src="Diapositiva7.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -61,7 +61,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="18.jpeg"
+        src="Diapositiva8.jpeg"
         alt="rifa"
         width={180}
         height={37}
@@ -69,7 +69,7 @@ export default function Home() {
       />
       <Image
         className="w-full max-w-2xl"
-        src="19.jpeg"
+        src="Diapositiva9.jpeg"
         alt="rifa"
         width={180}
         height={37}
