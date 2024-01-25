@@ -51,30 +51,6 @@ export default function Home() {
         height={1000}
         priority
       />
-      <Image
-        className="w-full max-w-2xl"
-        src="/Diapositiva7.jpeg"
-        alt="rifa"
-        width={1000}
-        height={1000}
-        priority
-      />
-      <Image
-        className="w-full max-w-2xl"
-        src="/Diapositiva8.jpeg"
-        alt="rifa"
-        width={1000}
-        height={1000}
-        priority
-      />
-      <Image
-        className="w-full max-w-2xl"
-        src="/Diapositiva9.jpeg"
-        alt="rifa"
-        width={1000}
-        height={1000}
-        priority
-      />
     </main>
   );
 }
