@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Rifa con causa",
-  description: "Rifa con causa",
+  title: "Rifa autos clásicos",
+  description: "Rifa autos clásicos",
 };
 
 export default function RootLayout({
